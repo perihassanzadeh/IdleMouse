@@ -1,0 +1,1 @@
+python.exe -m PyQt5.uic.pyuic MouseMoverUI.ui -o MouseMoverUI.py
